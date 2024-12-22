@@ -105,7 +105,7 @@ settings = {
              "fixed": ["nuked"]
          },
         "webhook_spam": {
-            "usernames": ["nuked"],
+            "usernames": ["Solar"],
             "pfp_urls": [None],
             "contents": ["@everyone nuked by Solar Nukes Community" , "Join Solar Nukes Community https://discord.gg/MFT9pZBMSW" , "https://www.youtube.com/watch?v=Z48O2AnzHNk&list=LL&index=24&pp=gAQBiAQB8AUB"]
         },
