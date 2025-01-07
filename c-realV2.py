@@ -105,7 +105,7 @@ settings = {
              "fixed": ["nuked"]
          },
         "webhook_spam": {
-            "usernames": ["nuked"],
+            "usernames": ["Solar"],
             "pfp_urls": [None],
             "contents": ["@everyone"]
         },
